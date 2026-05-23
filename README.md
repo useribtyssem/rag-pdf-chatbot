@@ -11,7 +11,7 @@
 
 ---
 
-## 🎯 What it does
+## What it does
 
 Upload any PDF and ask questions about its content. The app:
 
@@ -31,7 +31,7 @@ Everything runs **locally** — no API keys, no data sent to the cloud.
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 rag-pdf-chatbot/
