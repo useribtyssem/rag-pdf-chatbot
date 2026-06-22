@@ -32,6 +32,8 @@ Everything runs **locally** — no API keys, no data sent to the cloud.
 ![Demo](assets/demo.png)
 
 ---
+## Test
+Ceci est un test pour le Code Review Agent.
 
 ## Project Structure
 
